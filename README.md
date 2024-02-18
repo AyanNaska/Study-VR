@@ -4,6 +4,8 @@ Welcome to the VR Study repository! This project aims to provide an interactive 
 Project Overview
 VR Study is developed primarily for users interested in improving public speaking skills, classroom collaboration, and interview preparation. Utilizing virtual reality technology, users can immerse themselves in various educational scenarios, making learning more engaging and effective.
 
+![Screenshot (235)](https://github.com/AyanNaska/Study-VR/assets/113054786/5d99e520-ff5d-45ca-ba2e-2d05e28b758d)
+
 Features
 1. Stage Practice
 Description: Practice public speaking in a virtual stage environment.
